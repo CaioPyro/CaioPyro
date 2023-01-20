@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Estudante de Sistemas de Informação;
 - 📚 Foco em desenvolvimento web e mobile: 
-        Programação WEB em HTML, CSS, PHP, Javascript, Laravel e Mysql.
+        Programação WEB em HTML, CSS, PHP, Javascript, Laravel e Mysql;
         E também em C#, Dart, Flutter, Node e React.
         
 <div align="center">  
